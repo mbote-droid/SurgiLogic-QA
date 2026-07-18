@@ -1,4 +1,9 @@
 # 🩺 SurgiLogic-QA
+
+[![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white)](https://www.python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Built with Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
+
 ### Clinical Reasoning & Risk Stratification for General Surgery
 
 SurgiLogic-QA is a Python-powered tool designed to assist **General Surgery Residents** in post-operative monitoring. It bridges the gap between clinical logic and automated data validation.
